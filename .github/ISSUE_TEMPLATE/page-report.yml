@@ -27,7 +27,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: problem
+    id: expected
     attributes:
       label: What did you expect to see?
     validations:
