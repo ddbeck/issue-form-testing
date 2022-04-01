@@ -13,7 +13,7 @@ body:
         If your issue is about:
 
         - the **browser compatibility table** on this page, then go back to the page and use the _Report problems with this compatibility data on GitHub_ link instead.
-        - **getting help with Firefox, Chrome, Safari, or another browser**, then check the browser's support site instead. <!-- TODO: link to Firefox, Chrome, Safari help sites -->
+        - **getting help with [Firefox](https://support.mozilla.org/en-US/kb/file-bug-report-or-feature-request-mozilla), [Chrome](https://support.google.com/chrome/answer/95315?hl=en-GB&ref_topic=7439544), [Safari](https://www.apple.com/feedback/safari.html), or another browser**, then check the browser's support site instead.
 
         ---
   - type: input
