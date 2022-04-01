@@ -36,4 +36,9 @@ body:
     id: references
     attributes:
       label: Do you have any supporting links, references, or citations?
-      description: Link to information that helps us confirm your issue
+      description: Link information that helps us confirm your issue.
+  - type: textarea
+    id: more-info
+    attributes:
+      label: Do you have anything more you want to share?
+      description: For example, steps to reproduce a bug, screenshots, or sample code
