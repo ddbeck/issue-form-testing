@@ -46,7 +46,7 @@ body:
     attributes:
       value: |
         ---
-        You're finished! The following fields are prefilled. Thank you for submitting your report.
+        You're finished! The following fields are prefilled. Please click **Submit new issue**.
   - type: input
     id: metadata-url
     attributes:
