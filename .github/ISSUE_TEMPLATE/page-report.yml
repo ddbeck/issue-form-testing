@@ -5,16 +5,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Welcome!
-
-        Thanks for taking the time to fill out this issue!
-
-        Did you know you can edit this page directly? Go back to the page and click the "Edit on GitHub" link.
+        ### Want to edit this page?
+        To edit this page directly, go back to the page and click the "Edit on GitHub" link.
         
-        If this issue is about…
+        ### Before you continue
 
-        - a browser compatibility table, then go back to the page and use the "Report problems with this compatibility data on GitHub" link instead.
-        - a bug or feature request for a web browser, then do not use this form; check the browser's support site instead.
+        If this is about a **browser compatibility table**, go back to the page and use the _Report problems with this compatibility data on GitHub_ link instead.
+
+        If this is about **a browser bug or feature request**, do not use this form. Check the browser's support site instead. <!-- TODO: link to Firefox, Chrome, Safari help sites -->
   - type: input
     attributes:
       label: test
