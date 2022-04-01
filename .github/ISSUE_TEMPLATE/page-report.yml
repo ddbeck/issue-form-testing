@@ -46,7 +46,7 @@ body:
     attributes:
       value: |
         ---
-        ### The following fields are read-only. **DO NOT MODIFY**.
+        The following fields are read-only. **DO NOT MODIFY**.
   - type: input
     id: metadata-url
     attributes:
