@@ -41,4 +41,4 @@ body:
     id: more-info
     attributes:
       label: Do you have anything more you want to share?
-      description: For example, steps to reproduce a bug, screenshots, or sample code
+      description: For example, steps to reproduce a bug, screenshots, screen recordings, or sample code
