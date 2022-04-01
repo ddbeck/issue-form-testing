@@ -1,4 +1,4 @@
-name: Page report via MDN page
+name: "[via MDN pages only] Page report"
 description: Issue filed via "Report a problem with this content on GitHub" link on MDN pages.
 labels: ["via page report", "needs triage"]
 body:
