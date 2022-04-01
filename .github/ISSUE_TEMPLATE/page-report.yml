@@ -1,6 +1,6 @@
 name: Report via mdn/yari template
 description: Used by mdn/yari — do not use this template
-title: "Report: "
+labels: ["via page report", "needs triage"]
 body:
   - type: markdown
     attributes:
