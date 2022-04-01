@@ -36,7 +36,7 @@ body:
     id: references
     attributes:
       label: Do you have any supporting links, references, or citations?
-      description: Link information that helps us confirm your issue.
+      description: Link to information that helps us confirm your issue.
   - type: textarea
     id: more-info
     attributes:
