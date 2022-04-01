@@ -47,7 +47,7 @@ body:
       value: |
         ---
         You're finished! The following fields are prefilled. Please click **Submit new issue**.
-  - type: input
+  - type: textarea
     id: metadata-json
     attributes:
       label: MDN metadata
