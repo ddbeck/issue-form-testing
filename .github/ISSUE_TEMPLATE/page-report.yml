@@ -48,9 +48,30 @@ body:
         ---
         You're finished! The following fields are prefilled. Please click **Submit new issue**.
   - type: input
-    id: metadata-url
+    id: metadata-mdn-url
     attributes:
       label: MDN URL
+      description: Added automatically. Do not modify.
+    validations:
+      required: true
+  - type: input
+    id: metadata-github-url
+    attributes:
+      label: GitHub URL
+      description: Added automatically. Do not modify.
+    validations:
+      required: true
+  - type: input
+    id: metadata-last-commit-url
+    attributes:
+      label: Last commit
+      description: Added automatically. Do not modify.
+    validations:
+      required: true
+  - type: input
+    id: metadata-last-modified-date
+    attributes:
+      label: Last modified
       description: Added automatically. Do not modify.
     validations:
       required: true
