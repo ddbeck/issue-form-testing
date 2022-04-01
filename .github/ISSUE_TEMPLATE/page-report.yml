@@ -15,3 +15,8 @@ body:
 
         - a browser compatibility table, then go back to the page and use the "Report problems with this compatibility data on GitHub" link instead.
         - a bug or feature request for a web browser, then do not use this form; check the browser's support site instead.
+  - type: input
+    attributes:
+      label: test
+      description: test
+      placeholder: test
