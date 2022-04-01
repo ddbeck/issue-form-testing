@@ -24,3 +24,5 @@ body:
     id: problem
     attributes:
       label: What information was incorrect, unhelpful, or incomplete?
+    validations:
+      required: true
