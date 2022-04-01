@@ -35,5 +35,5 @@ body:
   - type: textarea
     id: references
     attributes:
-      label: Supporting links, references, and citations
+      label: Do you have any supporting links, references, or citations?
       description: Link to information that helps us confirm your issue
