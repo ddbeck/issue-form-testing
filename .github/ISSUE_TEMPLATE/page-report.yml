@@ -1,0 +1,17 @@
+name: Report via mdn/yari template
+description: Used by mdn/yari — do not use this template
+title: "Report: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome!
+
+        Thanks for taking the time to fill out this issue!
+
+        Did you know you can edit this page directly? Go back to the page and click the "Edit on GitHub" link.
+        
+        If this issue is about…
+
+        - a browser compatibility table, then go back to the page and use the "Report problems with this compatibility data on GitHub" link instead.
+        - a bug or feature request for a web browser, then do not use this form; check the browser's support site instead.
