@@ -1,5 +1,5 @@
 name: Page report template
-description: "."
+description: "   "
 labels: ["via page report", "needs triage"]
 body:
   - type: markdown
