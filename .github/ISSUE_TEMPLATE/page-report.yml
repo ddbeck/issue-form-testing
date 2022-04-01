@@ -14,7 +14,7 @@ body:
 
         - the **browser compatibility table** on this page, then go back to the page and use the _Report problems with this compatibility data on GitHub_ link instead.
         - **getting help with Firefox, Chrome, Safari, or another browser**, then check the browser's support site instead. <!-- TODO: link to Firefox, Chrome, Safari help sites -->
-  - type: textarea
+  - type: input
     id: section
     attributes:
       label: What specific section or headline is this issue about?
