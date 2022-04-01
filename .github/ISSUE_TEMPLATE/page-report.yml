@@ -5,10 +5,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Want to edit this page?
+        ## Want to edit this page?
         To edit this page directly, go back to the page and click the "Edit on GitHub" link.
         
-        ### Before you continue
+        ## Before you continue
 
         If your issue is about:
 
