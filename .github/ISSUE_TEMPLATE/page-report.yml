@@ -50,5 +50,5 @@ body:
   - type: input
     id: metadata-url
     attributes:
-      label: (do not modify) MDN URL
+      label: MDN URL
       description: Added automatically. Do not modify.
