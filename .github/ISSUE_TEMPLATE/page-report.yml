@@ -46,7 +46,7 @@ body:
     attributes:
       value: |
         ---
-        The following fields are read-only. **DO NOT MODIFY**.
+        You're finished! The following fields are prefilled. Thank you for submitting your report.
   - type: input
     id: metadata-url
     attributes:
