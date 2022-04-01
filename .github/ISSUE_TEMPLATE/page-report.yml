@@ -42,6 +42,10 @@ body:
     attributes:
       label: Do you have anything more you want to share?
       description: For example, steps to reproduce a bug, screenshots, screen recordings, or sample code
+  - type: markdown
+    value: |
+      ---
+      The following fields are read-only. **DO NOT MODIFY** the following fields.
   - type: input
     id: metadata-url
     attributes:
