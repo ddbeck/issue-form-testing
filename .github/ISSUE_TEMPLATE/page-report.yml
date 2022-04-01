@@ -42,3 +42,8 @@ body:
     attributes:
       label: Do you have anything more you want to share?
       description: For example, steps to reproduce a bug, screenshots, screen recordings, or sample code
+  - type: input
+    id: metadata-url
+    attributes:
+      label: (do not modify) MDN URL
+      description: Added automatically. Do not modify.
