@@ -20,3 +20,7 @@ body:
     id: section
     attributes:
       label: What specific section or headline is this issue about?
+  - type: textarea
+    id: problem
+    attributes:
+      label: What information was incorrect, unhelpful, or incomplete?
