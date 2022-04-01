@@ -26,3 +26,9 @@ body:
       label: What information was incorrect, unhelpful, or incomplete?
     validations:
       required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What did you expect to see?
+    validations:
+      required: true
