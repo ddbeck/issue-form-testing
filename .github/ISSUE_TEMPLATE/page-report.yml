@@ -1,5 +1,5 @@
-name: Page report template
-description: Template for "Report a problem with this content on GitHub" links on MDN
+name: Page report via MDN page
+description: Issue filed via "Report a problem with this content on GitHub" link on MDN pages.
 labels: ["via page report", "needs triage"]
 body:
   - type: markdown
