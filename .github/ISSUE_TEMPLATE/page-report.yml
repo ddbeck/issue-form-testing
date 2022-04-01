@@ -46,9 +46,11 @@ body:
     attributes:
       value: |
         ---
-        The following fields are read-only. **DO NOT MODIFY** the following fields.
+        The following fields are read-only. **DO NOT MODIFY**.
   - type: input
     id: metadata-url
     attributes:
       label: MDN URL
       description: Added automatically. Do not modify.
+    validations:
+      required: true
