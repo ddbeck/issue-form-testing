@@ -10,11 +10,11 @@ body:
         
         ### Before you continue
 
-        If this is about a **browser compatibility table**, go back to the page and use the _Report problems with this compatibility data on GitHub_ link instead.
+        If your issue is about:
 
-        If this is about **getting help with Firefox, Chrome, Safari, or another browser**, do not use this form. Check the browser's support site instead. <!-- TODO: link to Firefox, Chrome, Safari help sites -->
-  - type: input
+        - the **browser compatibility table** on this page, then go back to the page and use the _Report problems with this compatibility data on GitHub_ link instead.
+        - **getting help with Firefox, Chrome, Safari, or another browser**, then check the browser's support site instead. <!-- TODO: link to Firefox, Chrome, Safari help sites -->
+  - type: textarea
+    id: section
     attributes:
-      label: test
-      description: test
-      placeholder: test
+      label: What specific section or headline is this issue about?
