@@ -32,3 +32,8 @@ body:
       label: What did you expect to see?
     validations:
       required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Supporting links, references, and citations
+      description: Link to information that helps us confirm your issue
