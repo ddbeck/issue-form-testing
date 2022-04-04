@@ -8,8 +8,8 @@ body:
         ### Before you start
 
         **Want to edit this page?**
-        ↩ Go back and use the "Edit on GitHub" link on the page.
-        
+        ↩ Go back and use the _Edit on GitHub_ link on the page.
+
         **Is your issue about the browser compatibility table?**
         ↩ Go back and use the _Report problems with this compatibility data on GitHub_ link on the page.
 
@@ -17,6 +17,13 @@ body:
         🙋 To get help with [Firefox](https://support.mozilla.org/en-US/kb/file-bug-report-or-feature-request-mozilla), [Chrome](https://support.google.com/chrome/answer/95315?hl=en-GB&ref_topic=7439544), [Safari](https://www.apple.com/feedback/safari.html), or another browser, check the browser's support site.
 
         ---
+  - type: input
+    id: mdn-url
+    attributes:
+      label: MDN URL
+      description: Set automatically. Do not modify.
+    validations:
+      required: true
   - type: input
     id: section
     attributes:
@@ -49,7 +56,7 @@ body:
         ---
         You're finished! The following fields are prefilled. Please click **Submit new issue**.
   - type: textarea
-    id: metadata-json
+    id: metadata
     attributes:
       label: MDN metadata
-      description: Added automatically. Do not modify.
+      description: Set automatically. Do not modify.
